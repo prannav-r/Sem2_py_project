@@ -43,4 +43,20 @@ Graphs:
 
 Accuracy Graph (pre-trained model)-
 
-![alt text](8Ln9V.png)
+![alt text](liUl6.png)
+
+Greenline: val accuracy
+
+Redline: train accuracy
+
+Loss Graph (pre-trained model)-
+
+![alt text](8Ln9V-1.png)
+
+The loss curve of the 1st experiment (red curve) suddenly jump up near the end of the first epoch, and then slowly steadily decrease. 
+
+Output Screenshots:
+
+![alt text](image.png)
+
+![alt text](image-1.png)
