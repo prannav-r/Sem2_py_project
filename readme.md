@@ -38,3 +38,9 @@ The script performs the following steps:
 7.	Shows video with results: Displays the video with jump detection labels on each frame.
 8.	Breaks loop on 'q' press: Exits the loop when the user presses the 'q' key.
 9.	Releases resources: Releases the video capture and closes all windows.
+
+Graphs:
+
+Accuracy Graph (pre-trained model)-
+
+![alt text](8Ln9V.png)
