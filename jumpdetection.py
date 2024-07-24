@@ -42,7 +42,7 @@ def detect_jump(frame, background):
     return False
 
 # Open video capture
-cap = cv2.VideoCapture("D:/Github/Sem2_py_project/input1.mp4") # Replace 'your_video.mp4' with the path to your video file
+cap = cv2.VideoCapture("C:/Users/Pr/Desktop/rex.mp4") # Replace 'your_video.mp4' with the path to your video file
 
 # Read the first frame to initialize background
 _, background = cap.read()
